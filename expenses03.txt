@@ -1,0 +1,19 @@
+Dear Code Wizard,
+
+Thank you for your purchase.
+
+RECEIPT
+
+Pets At Home Manchester
+
+05-06-2024
+Order Number: 836442678P
+
+Product Details	Price	Qty
+Cat £4.00 3
+
+VAT (GBP): 3.00
+
+TOTAL (GBP): 15.00
+
+Please keep this receipt as record of your payment.
